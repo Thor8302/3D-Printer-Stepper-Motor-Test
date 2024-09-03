@@ -19,7 +19,7 @@ This repository contains the code and resources for testing the stepper motors u
 Below is a video demonstration of the stepper motor test in action.
 
 <video width="600" controls>
-  <source src="3d-printer-stepper-trial" type="video/mp4">
+  <source src="3d-printer-stepper-trial.mp4" type="video/mp4">
   Your browser does not support the video tag. You can download the video [here](stepper_motor_demo.mp4).
 </video>
 
