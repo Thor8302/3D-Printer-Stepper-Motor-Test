@@ -32,14 +32,7 @@ https://github.com/user-attachments/assets/0f7ad849-9ac3-413a-bad8-ef4037c75a35
 - Add Z-axis motor control and end-stop switches.
 - Implement more complex movement patterns to simulate actual 3D printing paths.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributions
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
----
-
-This version includes the video section and removes the code explanation. Let me know if you need any further adjustments!
