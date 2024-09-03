@@ -1,7 +1,3 @@
-Certainly! Here’s the revised README with the code explanation removed and the video section emphasized:
-
----
-
 # 3D Printer Stepper Motor Test
 
 ## Overview
@@ -18,10 +14,11 @@ This repository contains the code and resources for testing the stepper motors u
 
 Below is a video demonstration of the stepper motor test in action.
 
-<video width="600" controls>
-  <source src="3d-printer-stepper-trial.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can download the video [here](stepper_motor_demo.mp4).
-</video>
+
+
+https://github.com/user-attachments/assets/0f7ad849-9ac3-413a-bad8-ef4037c75a35
+
+
 
 ## Usage
 
@@ -35,14 +32,7 @@ Below is a video demonstration of the stepper motor test in action.
 - Add Z-axis motor control and end-stop switches.
 - Implement more complex movement patterns to simulate actual 3D printing paths.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributions
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
----
-
-This version includes the video section and removes the code explanation. Let me know if you need any further adjustments!
