@@ -1,4 +1,4 @@
-
+// This is C++ type file
 
 #include <AFMotor.h>
 // Motor with 200 steps per rev (1.8 degree)
