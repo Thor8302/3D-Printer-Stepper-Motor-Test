@@ -1,14 +1,14 @@
-// This is C++ type file
+
 
 #include <AFMotor.h>
-// Motor with 200 steps per rev (1.8 degree)
-// to motor port #1 (M1 and M2)
+// Motor with 200 steps per rev (1.8 degree);
+// to motor port #1 (M1 and M2);
 AF_Stepper motor(200, 2);
 void setup() {
-// set up Serial library at 9600 bps
+// set up Serial library at 9600 bps;
 Serial.begin(9600);
 //Serial.println(“ Stepper test!”);  
-motor.setSpeed(100); // 50 rpm
+motor.setSpeed(100); // 50 rpm;
 }
 void loop() {
 
